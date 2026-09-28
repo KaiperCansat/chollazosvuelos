@@ -1,0 +1,1 @@
+{"name":"chollo-worker","type":"module","private":true,"dependencies":{"@supabase/supabase-js":"^2"}}
